@@ -1,0 +1,9 @@
+current_server: gen3
+servers:
+    gen3:
+        endpoint: https://calypr-dev.ohsu.edu/
+        auth:
+            type: gen3
+            profile: calypr-dev
+            project_id: cbds-git_drs_test
+            bucket: cbds
